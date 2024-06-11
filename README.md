@@ -14,4 +14,4 @@ S5FS (System V File System) - A file system implementation based on the original
 
 VM (Virtual Memory) - Userspace address space management, running user-level code, servicing system calls, and basically everything else needed to combine all of the previous componenets into a fully functioning operating system. This includes virtual memory maps, handling page faults, memory management via anonymous objects and shadow objects, and system calls (in particular, the fork syscall).
 
-# NOTE: This is a placeholder repo with no code to respect Brown's Academic Code. If you are a potential employer and would like to look at the code, please email me at kyle_yeh@brown.edu.
+###### NOTE: This is a placeholder repo with no code to respect Brown's Academic Code. If you are a potential employer and would like to look at the code, please email me at kyle_yeh@brown.edu.
